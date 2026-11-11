@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="288" viewBox="0 0 900 288" role="img" aria-label="Case files: 1">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130" role="img" aria-label="Case files: 1">
   <defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#5eead4" stroke-opacity="0.05"/></pattern></defs>
-  <rect width="900" height="288" rx="10" fill="#0b1117"/><rect width="900" height="288" rx="10" fill="url(#g)"/>
-  <rect x="0.5" y="0.5" width="899" height="287" rx="10" fill="none" stroke="#1f2a33"/>
+  <rect width="900" height="130" rx="10" fill="#0b1117"/><rect width="900" height="130" rx="10" fill="url(#g)"/>
+  <rect x="0.5" y="0.5" width="899" height="129" rx="10" fill="none" stroke="#1f2a33"/>
   <g font-family="Consolas, 'Courier New', monospace" font-size="13">
     <text x="40" y="38" fill="#5eead4" letter-spacing="2" font-size="12">ARCHIVE // CASE FILES</text>
     <text x="40" y="60" fill="#e2e8f0" font-size="18" font-weight="700">01 documented</text>
     <text x="860" y="38" text-anchor="end" fill="#64748b" font-size="12" letter-spacing="2">AUTO-SYNCED</text>
-    <text x="40" y="91" fill="#94a3b8">Machines</text><rect x="170" y="80" width="560" height="14" rx="3" fill="#111a22"/><rect x="170" y="80" width="560" height="14" rx="3" fill="#5eead4" fill-opacity="0.85"><animate attributeName="width" from="0" to="560" dur="1.2s" fill="freeze"/></rect><text x="860" y="91" text-anchor="end" fill="#5eead4">01</text><text x="40" y="117" fill="#94a3b8">Web</text><rect x="170" y="106" width="560" height="14" rx="3" fill="#111a22"/><text x="860" y="117" text-anchor="end" fill="#475569">00</text><text x="40" y="143" fill="#94a3b8">Pwn</text><rect x="170" y="132" width="560" height="14" rx="3" fill="#111a22"/><text x="860" y="143" text-anchor="end" fill="#475569">00</text><text x="40" y="169" fill="#94a3b8">Crypto</text><rect x="170" y="158" width="560" height="14" rx="3" fill="#111a22"/><text x="860" y="169" text-anchor="end" fill="#475569">00</text><text x="40" y="195" fill="#94a3b8">Reversing</text><rect x="170" y="184" width="560" height="14" rx="3" fill="#111a22"/><text x="860" y="195" text-anchor="end" fill="#475569">00</text><text x="40" y="221" fill="#94a3b8">Forensics</text><rect x="170" y="210" width="560" height="14" rx="3" fill="#111a22"/><text x="860" y="221" text-anchor="end" fill="#475569">00</text><text x="40" y="247" fill="#94a3b8">Misc</text><rect x="170" y="236" width="560" height="14" rx="3" fill="#111a22"/><text x="860" y="247" text-anchor="end" fill="#475569">00</text>
+    <text x="40" y="91" fill="#94a3b8">Machines</text><rect x="170" y="80" width="560" height="14" rx="3" fill="#111a22"/><rect x="170" y="80" width="560" height="14" rx="3" fill="#5eead4" fill-opacity="0.85"><animate attributeName="width" from="0" to="560" dur="1.2s" fill="freeze"/></rect><text x="860" y="91" text-anchor="end" fill="#5eead4">01</text>
   </g>
 </svg>

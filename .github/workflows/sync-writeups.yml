@@ -1,0 +1,38 @@
+name: Sync writeups
+
+on:
+  schedule:
+    - cron: "15 6 * * *"   # daily, 06:15 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/sync_writeups.py"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pull writeups index
+        run: python scripts/sync_writeups.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "damnz-dev"
+          git config user.email "354959975+damnz-dev@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "chore(sync): refresh writeups"
+            git push
+          else
+            echo "Profile already in sync."
+          fi

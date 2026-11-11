@@ -62,14 +62,18 @@ Self-taught operator. I break enterprise-style networks in the lab, then write u
 
 <p align="center">
   <a href="https://github.com/damnz-dev/writeups">
-    <img src="./assets/casefiles.svg?v=2" width="900" alt="Case files archive"/>
+    <img src="./assets/casefiles.svg?v=3" width="900" alt="Case files archive"/>
   </a>
 </p>
 
 <!-- WRITEUPS:START -->
 | # | Case | Category | Difficulty | Link |
 |:-:|:-----|:--------:|:----------:|:----:|
-| `01` | **Autopilot**<br><sub>Protocol Breakdown & Hybrid Cross-Relay Analysis</sub> | <img src="https://img.shields.io/badge/Machines-5eead4?style=flat-square&labelColor=0b1117" alt="Machines"/> | <img src="https://img.shields.io/badge/Unrated-475569?style=flat-square&labelColor=0b1117" alt="unrated"/> | [`↗`](https://github.com/damnz-dev/writeups/blob/main/machines/autopilot.md) |
+| `17` | **Takeoff**<br><sub>Go Template SSTI, Custom Binary Token Forgery & Container Bind Escapes</sub> | <img src="https://img.shields.io/badge/Machines-5eead4?style=flat-square&labelColor=0b1117" alt="Machines"/> | <img src="https://img.shields.io/badge/Hard-ef4444?style=flat-square&labelColor=0b1117" alt="hard"/> | [`↗`](https://github.com/damnz-dev/writeups/blob/main/machines/takeoff.md) |
+| `16` | **Paperwork**<br><sub>Printer Job Language Traversal & UNIX Socket Descriptor Exposure</sub> | <img src="https://img.shields.io/badge/Machines-5eead4?style=flat-square&labelColor=0b1117" alt="Machines"/> | <img src="https://img.shields.io/badge/Easy-22c55e?style=flat-square&labelColor=0b1117" alt="easy"/> | [`↗`](https://github.com/damnz-dev/writeups/blob/main/machines/paperwork.md) |
+| `15` | **Oraculo**<br><sub>Indirect RAG Prompt Injection, Loopback Resolver Abuse & Unsigned Plugins</sub> | <img src="https://img.shields.io/badge/Machines-5eead4?style=flat-square&labelColor=0b1117" alt="Machines"/> | <img src="https://img.shields.io/badge/Medium-f59e0b?style=flat-square&labelColor=0b1117" alt="medium"/> | [`↗`](https://github.com/damnz-dev/writeups/blob/main/machines/oraculo.md) |
+| `14` | **Nimbus**<br><sub>SSRF Metadata Bypass, Async Queue RCE & Build Container Escape</sub> | <img src="https://img.shields.io/badge/Machines-5eead4?style=flat-square&labelColor=0b1117" alt="Machines"/> | <img src="https://img.shields.io/badge/Hard-ef4444?style=flat-square&labelColor=0b1117" alt="hard"/> | [`↗`](https://github.com/damnz-dev/writeups/blob/main/machines/nimbus.md) |
+| `13` | **Enigma**<br><sub>NFS/Mail Exposure, Authenticated CMS RCE & Loopback Console Injection</sub> | <img src="https://img.shields.io/badge/Machines-5eead4?style=flat-square&labelColor=0b1117" alt="Machines"/> | <img src="https://img.shields.io/badge/Easy-22c55e?style=flat-square&labelColor=0b1117" alt="easy"/> | [`↗`](https://github.com/damnz-dev/writeups/blob/main/machines/enigma.md) |
 <!-- WRITEUPS:END -->
 
 <p align="center"><sub>Auto-synced from <a href="https://github.com/damnz-dev/writeups">damnz-dev/writeups</a> · full table, category folders &amp; template inside.</sub></p>

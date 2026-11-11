@@ -62,7 +62,7 @@ Self-taught operator. I break enterprise-style networks in the lab, then write u
 
 <p align="center">
   <a href="https://github.com/damnz-dev/writeups">
-    <img src="./assets/casefiles.svg" width="900" alt="Case files archive"/>
+    <img src="./assets/casefiles.svg?v=2" width="900" alt="Case files archive"/>
   </a>
 </p>
 

@@ -6,6 +6,6 @@
     <text x="40" y="38" fill="#5eead4" letter-spacing="2" font-size="12">ARCHIVE // CASE FILES</text>
     <text x="40" y="60" fill="#e2e8f0" font-size="18" font-weight="700">01 documented</text>
     <text x="860" y="38" text-anchor="end" fill="#64748b" font-size="12" letter-spacing="2">AUTO-SYNCED</text>
-    <text x="40" y="91" fill="#94a3b8">Machines</text><rect x="170" y="80" width="560" height="14" rx="3" fill="#111a22"/><rect x="170" y="80" width="560" height="14" rx="3" fill="#5eead4" fill-opacity="0.85"><animate attributeName="width" from="0" to="560" dur="1.2s" fill="freeze"/></rect><text x="860" y="91" text-anchor="end" fill="#5eead4">01</text>
+    <text x="40" y="91" fill="#94a3b8">Machines</text><rect x="170" y="80" width="560" height="14" rx="3" fill="#111a22"/><rect x="170" y="80" width="560" height="14" rx="3" fill="#5eead4" fill-opacity="0.85"/><text x="860" y="91" text-anchor="end" fill="#5eead4">01</text>
   </g>
 </svg>

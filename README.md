@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="900" alt="DAMNZ — Offensive Operator · Red Team"/>
+  <img src="./assets/header.svg?v=2" width="900" alt="DAMNZ — Purple Team · Defensive / Offensive"/>
 </p>
 
 <p align="center">
@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AREA-RED_TEAM_·_HTB-5eead4?style=flat-square&labelColor=0b1117" alt="Red Team / HTB"/>
+  <img src="https://img.shields.io/badge/AREA-PURPLE_TEAM_·_HTB-5eead4?style=flat-square&labelColor=0b1117" alt="Purple Team / HTB"/>
   <img src="https://img.shields.io/badge/AREA-AI_AGENTS_·_MCP-5eead4?style=flat-square&labelColor=0b1117" alt="AI agents / MCP"/>
-  <img src="https://img.shields.io/badge/AREA-OFFENSIVE_AUTOMATION-5eead4?style=flat-square&labelColor=0b1117" alt="Offensive automation"/>
+  <img src="https://img.shields.io/badge/AREA-SECURITY_AUTOMATION-5eead4?style=flat-square&labelColor=0b1117" alt="Security automation"/>
   <img src="https://img.shields.io/badge/AREA-RF_·_HARDWARE-5eead4?style=flat-square&labelColor=0b1117" alt="RF / hardware"/>
 </p>
 
@@ -28,14 +28,13 @@
 
 ```text
 handle   : DAMNZ
-role     : offensive operator · software engineer
-focus    : Active Directory · Linux · web exploitation on Hack The Box
+role     : purple team · defensive & offensive · software engineer
+focus    : Active Directory · Linux · Web · DFIR / Sherlocks on Hack The Box
 builds   : MCP servers · multi-agent pipelines · bare-metal firmware
 signal   : SDR analysis · microwave dish alignment (Ku / C) · 2.4 GHz telemetry
 ```
 
-Self-taught operator. I break enterprise-style networks in the lab, then write up the
-*why* — architecture, protocol seams and mitigations — never the keys.
+Self-taught operator. I analyze enterprise-style networks and forensic evidence (PCAP/logs) from both sides — attack chains, protocol seams and defensive mitigations — never the keys.
 
 ---
 
@@ -53,6 +52,7 @@ Self-taught operator. I break enterprise-style networks in the lab, then write u
 
 | Repo | What it is | Stack |
 |:-----|:-----------|:------|
+| [**sherlocks-writeups**](https://github.com/damnz-dev/sherlocks-writeups) | Purple Team &amp; DFIR investigations from Hack The Box Sherlocks (starting with **dOOMs Day** · `2026-11-12`): PCAP/log correlation and hardening. | ![DFIR](https://img.shields.io/badge/DFIR-0b1117?style=flat-square&logo=wireshark&logoColor=5eead4) ![PurpleTeam](https://img.shields.io/badge/Purple_Team-0b1117?style=flat-square&labelColor=0b1117&color=a855f7) ![Markdown](https://img.shields.io/badge/Markdown-0b1117?style=flat-square&logo=markdown&logoColor=5eead4) |
 | [**writeups**](https://github.com/damnz-dev/writeups) | Sanitized case studies of lab attack chains: architecture, protocol analysis and defensive mitigations. No flags, no credentials, no step-by-step. | ![Markdown](https://img.shields.io/badge/Markdown-0b1117?style=flat-square&logo=markdown&logoColor=5eead4) ![Python](https://img.shields.io/badge/Python-0b1117?style=flat-square&logo=python&logoColor=5eead4) ![Actions](https://img.shields.io/badge/CI-0b1117?style=flat-square&logo=githubactions&logoColor=5eead4) |
 | [**damnz-dev.github.io**](https://github.com/damnz-dev/damnz-dev.github.io) | Bilingual (ES/EN) static CV in terminal style, strict CSP, zero JS frameworks; daily HTB sync via GitHub Actions. | ![HTML5](https://img.shields.io/badge/HTML5-0b1117?style=flat-square&logo=html5&logoColor=5eead4) ![CSS3](https://img.shields.io/badge/CSS3-0b1117?style=flat-square&logo=css&logoColor=5eead4) ![Actions](https://img.shields.io/badge/Actions-0b1117?style=flat-square&logo=githubactions&logoColor=5eead4) |
 
@@ -91,7 +91,7 @@ Self-taught operator. I break enterprise-style networks in the lab, then write u
   <img src="https://img.shields.io/badge/CSS3-0b1117?style=for-the-badge&logo=css&logoColor=5eead4" alt="CSS3"/>
 </p>
 
-<p align="center"><sub><b>OFFENSIVE SURFACE</b></sub></p>
+<p align="center"><sub><b>PURPLE TEAM SURFACE (DEFENSIVE / OFFENSIVE)</b></sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Active_Directory-0b1117?style=for-the-badge&logo=windows&logoColor=5eead4" alt="Active Directory"/>
   <img src="https://img.shields.io/badge/Linux_privesc-0b1117?style=for-the-badge&logo=linux&logoColor=5eead4" alt="Linux"/>
